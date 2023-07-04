@@ -1,0 +1,41 @@
+{
+    "trend": [
+      {
+        "id": 1,
+        "trendlocation": "India",
+        "trendname": "#Bharat",
+        "trendtweetcount": 2323
+      },
+      {
+        "id": 2,
+        "trendlocation": "India",
+        "trendname": "#Narendra_Modi",
+        "trendtweetcount": 1212
+      },
+      {
+        "id": 3,
+        "trendlocation": "America USA",
+        "trendname": "Twitter_Homepage",
+        "trendtweetcount": 19290
+      },
+      {
+        "id": 4,
+        "trendlocation": "Australia",
+        "trendname": "#Sydney",
+        "trendtweetcount": 324
+      },
+      {
+        "id": 5,
+        "trendlocation": "America",
+        "trendname": "New Your City",
+        "trendtweetcount": 232
+      },
+      {
+        "id": 6,
+        "trendlocation": "TechPark",
+        "trendname": "#Windows",
+        "trendtweetcount": 27
+      }
+    ]
+  }
+  

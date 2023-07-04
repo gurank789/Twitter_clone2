@@ -1,0 +1,74 @@
+
+
+
+{
+    "feed": [
+      {
+        "id": 1,
+        "verified": true,
+        "avatarurl": "https://thumbs.dreamstime.com/b/indian-man-portrait-close-up-happy-young-56800239.jpg",
+        "name": "Gurank Verma",
+        "time": "1m",
+        "text": "Hey There hello!!!",
+        "image": "",
+        
+        "view": 8135,
+        "like": 2900,
+        "comment": 320,
+        "retweet": 100
+      },
+      {
+        "id": 4,
+        "verified": true,
+        "avatarurl": "https://www.shutterstock.com/image-photo/handsome-smiling-young-man-folded-260nw-2069457431.jpg",
+        "name": "Asif Mondal",
+        "time": "6h",
+        "text": "This is the twitter Project",
+        "image": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+        "view": 5167,
+        "like": 302,
+        "comment": 34,
+        "retweet": 23
+      },
+      {
+        "id": 2,
+        "verified": false,
+        "avatarurl": "https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg",
+        "name": "Komal Kumari",
+        "time": "7h",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "image": "",
+        "view": 9450,
+        "like": 987,
+        "comment": 90,
+        "retweet": 30
+      },
+      {
+        "id": 3,
+        "verified": false,
+        "avatarurl": "https://st.depositphotos.com/1011643/4430/i/950/depositphotos_44309759-stock-photo-young-indian-man-outdoors.jpg",
+        "name": "Shravan Jaju",
+        "time": "8h",
+        "text": "Twitter is Amazing!!! ",
+        "image": "https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg",
+        "view": 3777,
+        "like": 2240,
+        "comment": 87,
+        "retweet": 54
+      },
+      {
+        "id": 4,
+        "verified": true,
+        "avatarurl": "https://media.istockphoto.com/id/1138008134/photo/indian-man-headshot.jpg?s=170667a&w=0&k=20&c=K5Ig6YlEjKmrcjX96m4yg_f1i-2sS5X_LjiH44ycqdY=",
+        "name": "Function Up",
+        "time": "9h",
+        "text": "Welcome To FunctionUp!",
+        "image": "",
+        "view": 10890,
+        "like": 4646,
+        "comment": 987,
+        "retweet": 123
+      }
+    ]
+  }
+  

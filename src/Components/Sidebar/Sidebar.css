@@ -1,0 +1,143 @@
+.sideBar > h1 > .MuiSvgIcon-root {
+    font-size: 40px;
+    position: fixed;
+    margin-top: 10px;
+    top: 0;
+    color: #1a91da;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .sideBar > h1 > .MuiSvgIcon-root:hover {
+    color: lightgrey;
+  }
+  
+  .sideBarList {
+    position: fixed;
+    top: 50px;
+    margin-top: 10px;
+    list-style: none;
+  }
+  
+  .sideBarList > .sideBarListItem {
+    padding: 10px 0px;
+    color: black;
+    cursor: pointer;
+    font-size: 1.4rem;
+    width: max-content;
+    padding-right: 10px;
+    transition: 0.1s;
+    border-radius: 40px;
+  }
+  
+  .sideBarList > .sideBarListItem:hover {
+    background-color: lightgrey;
+  }
+  
+  .sideBarList > .sideBarListItem > .sidebarIcon {
+    margin-right: 20px;
+    font-size: 35px;
+  }
+  
+  .sideBarList > .sideBarListItem:hover {
+    color: #ffffff;
+  }
+  
+  .sideBarTweetButton {
+    position: fixed;
+    bottom: 50px;
+    margin-left: 10px;
+    width: 250px;
+    padding: 10px 0;
+    border-radius: 30px;
+    background-color: #1da1f2;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 1.3rem;
+    transition: 0.5s;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .sideBarTweetButton:hover {
+    background-color: #1a91da;
+  }
+  
+  .profileSetting {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+    border-radius: 40px;
+    padding: 1px 0;
+    transition: 0.1s;
+    
+  }
+  
+  .profileSetting:hover {
+    background-color: lightgrey;
+  
+  }
+  
+  .profileSetting > div > .MuiAvatar-root {
+    margin-top: 5px;
+    margin-left: 10px;
+  }
+  
+  .profileSetting > .MuiSvgIcon-root {
+    margin-top: 15px;
+    margin-right: 10px;
+  }
+  
+  .profileSettingInfo {
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
+  .profileSettingInfo > h5 {
+    font-size: 0.8rem;
+    font-weight: bold;
+    color:black;
+  }
+  
+  .profileSettingInfo > p {
+    font-size: 0.9rem;
+    color: #676b6f;
+  }
+
+
+
+  .logoutPopup {
+  position: fixed;
+  bottom: 0%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  /* display: none; */
+
+}
+
+
+.logoutPopup p {
+  margin-bottom: 20px;
+}
+
+.logoutPopup button {
+  margin-right: 10px;
+  height:2rem;
+  cursor: pointer;
+  color: white;
+  background-color: #1da1f2;
+  border: none;
+  border-radius: 5px;
+}

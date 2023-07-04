@@ -1,0 +1,89 @@
+
+.container{
+    /* height:90vh; */
+    width:40vw;
+    /* border:1px solid blue; */
+    box-shadow: 0 0 5px 2px rgb(52, 50, 50);
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:2.5rem auto;
+}
+
+.inner_container{
+    width:50%;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.twitter_icon{
+    color:rgb(29, 155, 240);
+    font-size: 30px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+.sign_container{
+    margin-top:1.5rem;
+}
+.google{
+    width: 25vw;
+    height:40px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Google Sans",arial,sans-serif;
+    font-weight: 500px;
+    overflow: hidden;
+    border: 1px solid #dadce0;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.hr{
+   margin-top:25px;
+}
+
+.icon{
+    margin:10px;
+}
+
+.btn{
+    width: 25vw;
+    height:40px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border: 0 solid black;
+    margin-top:12px;
+}
+
+.signUp{
+    /* border:1px solid black; */
+    margin-top:30px;
+}
+
+.space{
+    margin-left:2px;
+    margin-bottom:10px;
+    font-size:1.2rem;
+}
+
+.text{
+    color:rgb(36, 36, 226);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
